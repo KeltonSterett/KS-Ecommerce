@@ -6,7 +6,7 @@ class Category extends Model {}
 
 Category.init(
   {
-    // define columns
+    // define columns activity 14 module 13
     id: {
       type:DataTypes.INTEGER,
       allowNull: false,

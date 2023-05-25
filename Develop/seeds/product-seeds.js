@@ -32,7 +32,7 @@ const productData = [
     category_id: 2,
   },
 ];
-
+// takes the model and data we want to seed into the database
 const seedProducts = () => Product.bulkCreate(productData);
 
 module.exports = seedProducts;

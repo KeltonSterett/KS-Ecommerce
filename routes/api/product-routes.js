@@ -34,7 +34,7 @@ router.get('/:id', (req, res) => {
   // find a single product by its `id`
   Product.findOne({
     where:  {
-    id: req.params.id ,
+    id: req.params.id,
   },
     include: [
     {

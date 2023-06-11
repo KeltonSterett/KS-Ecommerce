@@ -12,4 +12,4 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Walk-Through Video:
 
-
+https://drive.google.com/file/d/1P9USDfrOKsDohA3EXsrHSo1mfOshnFWZ/view
